@@ -1,3 +1,10 @@
+/* the pattern is :
+* 		* * * * *
+* 		* * * * *
+* 		* * * * *
+* 		* * * * *
+* 		* * * * *
+
 #include<iostream>
 #include<string>
 using namespace std;
