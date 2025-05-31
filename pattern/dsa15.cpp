@@ -14,9 +14,9 @@ int main(){
 	char r;
 	cout << "enter a number:=";
 	cin >> b;
-	for(int i = 0 ; i < b ; i++ ){
+	for(int i = 1 ; i <= b ; i++ ){
 		a = 65;
-		for(int j = 0 ; j <= i ; j++ ){
+		for(int j = 1 ; j <= i ; j++ ){
 			r = (char)a;
 			cout << r;
 			a++;
