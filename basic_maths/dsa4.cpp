@@ -1,5 +1,6 @@
 /* here is the question
 * 	find the greatest common divisor
+*/
 
 #include<bits/stdc++.h>
 using namespace std;
